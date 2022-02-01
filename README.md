@@ -16,7 +16,7 @@ https://github.com/kgarzelloni/16-Updated-Portfolio
 ## URL to Deployed Appliction
 https://kgarzelloni.github.io/16-Updated-Portfolio/
 
-## About Bootsrap Template 
+## About Bootstrap Template 
 
 Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
