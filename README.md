@@ -8,7 +8,7 @@ This objective of this assignment was to update my professional portfolio for en
 
 The following image shows the web application's appearance:
 
-![Screen Shot](/Users/karriegarzelloni/Desktop/fsf-projects/homework/16-Updated-Portfolio/portfolio/startbootstrap-creative/dist/assets/img/portfolio screenshot.png)
+<img width="1440" alt="portfolio screenshot" src="https://user-images.githubusercontent.com/94555980/151926823-5cf5a482-01bc-45b2-a610-407fa69fc18e.png">
 
 ## URL to GitHub Repository
 https://github.com/kgarzelloni/16-Updated-Portfolio
