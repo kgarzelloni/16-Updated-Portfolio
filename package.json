@@ -3,7 +3,8 @@
     "name": "startbootstrap-creative",
     "version": "7.0.5",
     "engines": {
-        "node": "16.13.1"
+        "node": "16.13.1",
+        "npm": "8.x"
         
     },
     "scripts": {
